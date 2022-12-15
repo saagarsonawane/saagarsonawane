@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sagar Sonawane, having 17+ yesrs of exeperince in development and curretly working as architect.
+- 👋 Hi, I’m Sagar Sonawane, having 17+ years of exeperince in development and curretly working as architect.
 - 👀 I’m interested in solutioning and coding using industry standards.
 - 🌱 I’m currently learning Python advance.
 - 📫 How to reach me : Email me saagar.sonawane@gmail.com
